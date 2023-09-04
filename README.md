@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mohsin-ahmed18
+- 👋 Hi, I’m Mohsin Ahmed
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on DevOps
+- 🌱 I’m currently doing bachelors in computer science 
+- 💞️ I’m looking to work as a DevOps engineer
 - 📫 mohsin.ahmed1024@gmail.com
 
 <!---
